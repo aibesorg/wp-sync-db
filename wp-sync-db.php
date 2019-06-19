@@ -1,12 +1,12 @@
 <?php
 /*
-Plugin Name: WP Sync DB
-Description: Export, push, and pull to migrate your WordPress databases.
-Author: Sean Lang
-Version: 1.5
-Author URI: http://slang.cx
-GitHub Plugin URI: wp-sync-db/wp-sync-db
-Network: True
+	Plugin Name: WP Sync DB
+	Description: Export, push, and pull to migrate your WordPress databases.
+	Author: Sean Lang
+	Version: 1.5.1
+	Author URI: http://slang.cx
+	GitHub Plugin URI: wp-sync-db/wp-sync-db
+	Network: True
 */
 
 $GLOBALS['wpsdb_meta']['wp-sync-db']['version'] = '1.5';
