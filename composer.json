@@ -1,5 +1,5 @@
 {
-  "name": "wp-sync-db/wp-sync-db",
+  "name": "aibesorg/wp-sync-db",
   "type": "wordpress-plugin",
   "homepage": "https://github.com/aibesorg/wp-sync-db",
   "license": "GPL-2.0",
